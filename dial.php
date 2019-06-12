@@ -31,6 +31,7 @@
 				<a href="index.php" class="backGame">Trở lại game</a>
 			</div>
 		</form>
+		<div></div>
 		<div class='row mt-3 mt-xl-0' id='result-row'>
 			<div class='col-12'>
 				<h6 class='d-inline-block text-muted'>Your lucky numbers are</h6>

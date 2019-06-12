@@ -31,7 +31,7 @@
           <input type="button" value="Create table" class="button" onclick="return createTable()">
           <input type="button" value="Reload Table" class="button" onclick="return reload()">
           <input type="button" onclick="printDiv('printableArea')" class="button" value="Print" />
-          <a href="dial.php" class="button dial">Dial Number</a>
+          <a href="dial.php" class="button dial">Dial Numbers</a>
         </form>
       </div>
       <div class="randomNumber" id="randomNumber">
